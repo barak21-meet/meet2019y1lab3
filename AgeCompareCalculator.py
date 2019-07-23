@@ -1,0 +1,6 @@
+user1=input("hey 1 how old are you?")
+user2=input('hello 2 how old are you?')
+age_difference=int(user1) - int(user2)
+afterAbs=abs(age_difference)
+Abs=str(afterAbs)
+print('our age difference is ' + Abs + ' years')

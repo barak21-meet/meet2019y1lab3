@@ -1,0 +1,5 @@
+name=input('what is your name?')
+print('Hello, ' + name.upper())
+print('Hey, ' + name.lower())
+print('I wanna write your name one more time ' + name.capitalize())
+print('Actually I want 1 more time haha, so hey ' + name.swapcase())
